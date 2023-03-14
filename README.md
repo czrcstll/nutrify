@@ -1,5 +1,5 @@
-Nutrify: A Mobile-Based Meal and Diet Planner for Diabetics Using
-Decision Tree Algorithm
+**Nutrify: A Mobile-Based Meal and Diet Planner for Diabetics Using
+Decision Tree Algorithm**
 
 Description:
 A mobile application that generates a personalized meal plan that fits the user’s
